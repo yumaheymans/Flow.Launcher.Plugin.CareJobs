@@ -1,0 +1,7 @@
+# Installed at release time by the workflow (pip install -r requirements.txt -t ./lib)
+lib/
+__pycache__/
+*.pyc
+*.zip
+.venv/
+.DS_Store
