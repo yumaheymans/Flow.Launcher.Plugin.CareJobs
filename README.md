@@ -36,7 +36,7 @@ Each result shows `Title at Employer`, then the pay (when there is one), the loc
 
 Press Enter to open the job. Open the context menu (Shift+Enter) on a job to open the job or the employer's page on CareJobs.Now. The last result, "See all N jobs", opens the same search on the CareJobs.Now board with filters.
 
-If CareJobs.Now cannot be reached within 8 seconds, you get one result that opens the search in your browser instead. The plugin never crashes Flow.
+If CareJobs.Now cannot be reached within 25 seconds, you get one result that opens the search in your browser instead. The plugin never crashes Flow.
 
 ## Privacy
 

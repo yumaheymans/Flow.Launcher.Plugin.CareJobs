@@ -4,7 +4,7 @@
     "Name": "CareJobs.Now",
     "Description": "Search US healthcare jobs with the pay employers post (nurses, CNAs, techs, therapists)",
     "Author": "CareJobs.Now",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Language": "python",
     "Website": "https://github.com/yumaheymans/Flow.Launcher.Plugin.CareJobs",
     "IcoPath": "Images\\app.png",
